@@ -19,11 +19,11 @@ The dashboard explores patterns of tag usage, highlights common mismatches, and 
 ---
 
 ## 🗂️ Structure of This Repo
-``
+```
 /reports → PDF exports of dashboards
 /images → Screenshots / thumbnails
 /docs → HTML files for GitHub Pages (embedded dashboards)
-``
+```
 ---
 
 ## 🚀 How to View
