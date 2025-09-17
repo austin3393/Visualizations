@@ -15,7 +15,7 @@ The dashboard explores patterns of tag usage, highlights common mismatches, and 
 - [Download PDF Snapshot](reports/LLM_Tag-Profession_Alignment_Audit.pdf)
 
 ### 🌐 Interactive Dashboard
-- [View on Looker Studio]([https://lookerstudio.google.com/reporting/YOUR-REPORT-ID](https://austin3393.github.io/Visualizations/))
+- [View on Looker Studio](https://austin3393.github.io/Visualizations/)
 ---
 
 ## 🗂️ Structure of This Repo
